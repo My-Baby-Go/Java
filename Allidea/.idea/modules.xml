@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MathGame/MathGame.iml" filepath="$PROJECT_DIR$/MathGame/MathGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleAPI/ModuleAPI.iml" filepath="$PROJECT_DIR$/ModuleAPI/ModuleAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleAbstract/ModuleAbstract.iml" filepath="$PROJECT_DIR$/ModuleAbstract/ModuleAbstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleArray/ModuleArray.iml" filepath="$PROJECT_DIR$/ModuleArray/ModuleArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleClass/ModuleClass.iml" filepath="$PROJECT_DIR$/ModuleClass/ModuleClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleDebug/ModuleDebug.iml" filepath="$PROJECT_DIR$/ModuleDebug/ModuleDebug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleDuoTai/ModuleDuoTai.iml" filepath="$PROJECT_DIR$/ModuleDuoTai/ModuleDuoTai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleGather/ModuleGather.iml" filepath="$PROJECT_DIR$/ModuleGather/ModuleGather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleIO/ModuleIO.iml" filepath="$PROJECT_DIR$/ModuleIO/ModuleIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleInterface/ModuleInterface.iml" filepath="$PROJECT_DIR$/ModuleInterface/ModuleInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleMethod/ModuleMethod.iml" filepath="$PROJECT_DIR$/ModuleMethod/ModuleMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleNet/ModuleNet.iml" filepath="$PROJECT_DIR$/ModuleNet/ModuleNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleSort/ModuleSort.iml" filepath="$PROJECT_DIR$/ModuleSort/ModuleSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleStudentManage/ModuleStudentManage.iml" filepath="$PROJECT_DIR$/ModuleStudentManage/ModuleStudentManage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleThread/ModuleThread.iml" filepath="$PROJECT_DIR$/ModuleThread/ModuleThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModuleThrowable/ModuleThrowable.iml" filepath="$PROJECT_DIR$/ModuleThrowable/ModuleThrowable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulnherit/Modulenherit.iml" filepath="$PROJECT_DIR$/Modulnherit/Modulenherit.iml" />
+    </modules>
+  </component>
+</project>
